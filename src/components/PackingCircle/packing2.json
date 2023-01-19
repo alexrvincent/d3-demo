@@ -1,0 +1,62 @@
+{
+  "name": "ingredients",
+  "children": [
+   {
+    "name": "group 1",
+    "children": [
+      {
+        "name": "sweet potato", 
+        "value": 1712
+      },
+      {
+        "name": "salad", 
+        "value": 359
+      },
+      {
+        "name": "potatoes", 
+        "value": 2172
+      },
+      {
+        "name": "pumpkin", 
+        "value": 3490
+      },
+      {
+        "name": "leeks", 
+        "value": 272
+      },
+      {
+        "name": "onions", 
+        "value": 3904
+      },
+      {
+        "name": "carrots", 
+        "value": 1322
+      },
+      {
+        "name": "celery", 
+        "value": 1829
+      },
+      {
+        "name": "garlic", 
+        "value": 2723
+      },
+      {
+        "name": "parsnips", 
+        "value": 319
+      },
+      {
+        "name": "russet pot", 
+        "value": 1150
+      },
+      {
+        "name": "bell pepper", 
+        "value": 2399
+      },
+      {
+        "name": "winter", 
+        "value": 1737
+      }
+    ]
+   }
+  ]
+ }

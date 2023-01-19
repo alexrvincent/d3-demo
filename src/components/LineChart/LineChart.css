@@ -1,0 +1,21 @@
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+  fill: none;
+  stroke: #ffab00;
+  stroke-width: 5;
+}
+
+.overlay {
+fill: none;
+pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+  fill: #ffab00;
+}
+
+.focus circle {
+fill: none;
+stroke: steelblue;
+}
